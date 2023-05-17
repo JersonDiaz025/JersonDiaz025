@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/N2ng0M6HzgKr3lW8df/giphy.gif" width="200"/>
   <h1 align="center">Hi 👋, I'm Jerson</h1>
-  <h3 align="center">I am a programmer guy who loves technology and its advances, i love creating web applications specifically on the frontend side using React and its    
+  <h4 align="center">I am a programmer guy who loves technology and its advances, i love creating web applications specifically on the frontend side using React and its    
     derivatives.
-  </h3>
+  </h4>
 </div>
 
 ## 💫 About Me:
