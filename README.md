@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/60714079?s=400&u=15f6ed79c13c8719eb76e9b49b953fb68f403ec6&v=4"/>
+ <img src="https://avatars.githubusercontent.com/u/60714079?s=400&u=15f6ed79c13c8719eb76e9b49b953fb68f403ec6&v=4" width="200px" />
   <h1 align="center">Hi 👋, I'm Jerson</h1>
-  <h4 align="center">I am a programmer guy who loves technology and its advances, i love creating web applications specifically on the frontend side using React and its    
+  <h4 align="center">I am a programmer guy who loves technology and its advances,<br> i love creating web applications specifically on the frontend side using React and its    
     derivatives.
   </h4>
 </div>
