@@ -7,7 +7,10 @@
 </div>
 
 ## 💫 About Me:
-•	🌱 I’m currently learning ReactJS<br>• 💬 Ask me about: ReactJS, TS, Node and JS<br>
+- 🌱 I’m currently learning ReactJS<br>
+- 💬 Ask me about: ReactJS, TS, Node and JS<br>
+- 📧 Reach me email: diazjerson831@gmail.com<br>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jersoncuevasdiaz)
 
 ## 📄 Experience: 
 ### INTELLISYS D. CORP AS WEB DEVELOPER
